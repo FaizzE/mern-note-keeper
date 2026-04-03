@@ -1,5 +1,9 @@
 {
   "dependencies": {
     "dotenv": "^17.3.1"
+  },
+  "devDependencies": {
+    "init": "^0.1.2",
+    "npx": "^10.2.2"
   }
 }
